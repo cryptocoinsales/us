@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About us",
+    "currentPage": "contact",
     "name": "Cryptotrade",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -107,7 +107,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -126,11 +126,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -152,13 +157,8 @@
             "showButtons": true
           },
           "title": "WELLCOME TO CRYPTO TRADE",
-          "text": "Here we help you buy,sale and trade your crypto currencies at a good and affordable and also with good customers. you will also be opportuned to meet buyer and seller in our platform.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Register</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Login</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "text": "Here we help you buy,sale and trade your crypto currencies at a good and affordable and also with good customers. you will also be opportuned to meet buyer and seller in our platform",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/register\" data-toolbar=\"-mbrBtnMove\">Register</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Login</a> "
         },
         {
           "_name": "footer1",
@@ -182,6 +182,16 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "24px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": 50,
@@ -227,17 +237,7 @@
           },
           "title": "DO YOU WANT TO SELL OR BUY &nbsp;",
           "text": "<p><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; You can also get sellers and buyers through us</span><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "24px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://cryptocoinsales.github.io/us/About%20us\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
         {
           "_tags": [
@@ -263,7 +263,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Crypto trade</a> "
               },
               {
                 "active": false,
@@ -277,7 +277,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Crypto trade</a> "
               },
               {
                 "active": false,
@@ -292,7 +292,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Crypto trade</a> "
               },
               {
                 "active": true,
@@ -307,7 +307,7 @@
                 "showText": false,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Crypto trade</a> "
               }
             ],
             "fullScreen": false,
@@ -413,7 +413,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -460,6 +460,1014 @@
           "title": "ABOUT US",
           "text": "Cryto trade is a company Created to Help Crypto currency users market their currencies at a good and affordable rate with good buyers and sellers meaning that we serve as middle man in the business of which the seller after bargaining on the price rate witt the buyer, create account with us, then procced and make payment of the amount he or she wants to sell to our wallet address, provide and upload the transaction Id and the amount sent and we will then notify the buyer on his or her dashboard to proceed and make payment into the sellers bank account provided, of which after the payment and the proof uploaded, and approved by the seller, we will then transfer the currency to be sold to the buyer and transaction ended. It is also a <br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;platform where you can meet and relate with all currency users and we can also help you find buyers and seller of which we will deduct 1% from the amount to be sold &nbsp;and also from the amount to be received meaning that if A seller wants &nbsp;to sell a currency worth $100, he or she will have to sell $99 and the remaining $1 goes to admin fee of which we will advertise that the sellers wants to sell $99 intead of $100 and when we get a buyer and after he or she made his or her payment to the seller, we will also send $98 intead of $99 to the buyer meaning that $1 is also been deducted from the buyer as admin fee making it total of 2% admin fee both from the buyer and the seller</span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">DOU YOU WANT TO SELL</span><br>First of all you have to create account with us of which after you click on make sales   then fill in the currency you want to sell with the amount agreed with the buyer and your account details to receive payment from your buyer and also you provide the username of the buyer (the buyer must also have account with us in order to make the transaction work) then make payment of the currency you want to sell into the address provided on your dashboard and after making payment upload your Transaction ID and the amount sent  then we shall notify the buyer on his or her dashbord to proceed for making payment into your bank account of which after the buyer made payment and upload his or her proof you will then login to your dashboard and approve the payment and we will then transfer the currency into the buyers wallet<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">DO YOU WANT TO BUY</span><br>You must create account with us before you can be able to buy currencies through our platform,after creating your account or login if you are already registered then give your seller your username to generate a coupon of payment for you(dont give out your password for any reason, its at your own risk) we will notify you once your seller send the amount to be sold to you into our wallet then we will provide your sellers bank details for you to proceed for your payment of which after you paid and your payment approved by your seller we shall the currency into your wallet and <br>transaction closed<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">BUY AND SELL THROUGH US</span><br>&nbsp;we can also help you find buyers and seller of which we will deduct 1% from the amount to be sold  and also from the amount to be received meaning that if A seller wants  to sell a currency worth $100, he or she will have to sell $99 and the remaining $1 goes to admin fee of which we will advertise that the sellers wants to sell $99 intead of $100 and when we get a buyer and after he or she made his or her payment to the seller, we will also send $98 intead of $99 to the buyer meaning that $1 is also been deducted from the buyer as admin fee making it total of 2% admin fee both from the buyer and the seller<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">BUY AND SELL TO AND FROM US</span><br>You can also buy or sale to us at a particular rate depending on the rate of bitcoin and dollar at the moment,of which you click on \"sell to us\" or \"buy to us\" then put in the amount you want to sell or buy and an address will be provided to you to make your payment if you are selling of which you are to upload your payment info/Id after payment and also your bank details for use to pay you. Then if you are buying, we will provide an account details of which after you make your payment and upload your proof and also provide us your wallet adderss, we shall then transfer the currency equivalent to the amount you paid into your wallet<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a> "
+        }
+      ]
+    },
+    "fresh": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-6",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "",
+          "text": "Please contact our agent: 09068084098&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "attempt": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Thanks for your selling proposal&nbsp;",
+          "text": "We shall notify your buyer to make payment into our Agents central account of which if the payment is confirmed we shall notify you to transfer the currency into your buyers wallet and after that we shall then send your money into your bank account",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "buyer": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "You Have A Purchase Request",
+          "text": ":You are about to purchase a coin from<br>:Amount<br>:Dollar Rate<br>Make payment into our agent account and after you upload the proof of your payment and wait for approval<br>Account number: 0170496000<br>Account Name: Nweze Ugochukwu R<br>Bank Name: Guaranty Trrust Bank<br>&nbsp;Contact our agent: 09068084098",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://cryptocoinsales.yn.lt/buyer\" data-toolbar=\"-mbrBtnMove\">Upload proof of payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://cryptocoinsales.yn.lt/refusal\" data-toolbar=\"-mbrBtnMove\">I refuse this payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "after pay": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-o",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "&nbsp;Thanks for making your payment, we shall notify you when your payment is approved",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "seller": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-r",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Your buyer has made payment",
+          "text": ":You can now proceed and transfer the currency into below wallet address of your buyer of which after your payment is approved we shall then remit your money into your bank account<br>:You are paying a sum of&nbsp;<br>:To<br>:Wallet address<br>&nbsp;Contact our agent if you encounter any problem: 09068084098",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://cryptocoinsales.yn.lt/after seller pay\" data-toolbar=\"-mbrBtnMove\">Upload proof of payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://cryptocoinsales.yn.lt/refusal\" data-toolbar=\"-mbrBtnMove\">I refuse this payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "seller to receive": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Your buyer have received your payment, please wait patiently why we transfer your money into your &nbsp;account please comfirm once you get paid",
+          "text": ":Contact our agent if you encounter any problem: 09068084098",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://cryptocoinsales.yn.lt/paidr pay\" data-toolbar=\"-mbrBtnMove\">I have gotten paid</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://cryptocoinsales.yn.lt/refusal\" data-toolbar=\"-mbrBtnMove\">i didnt get paid after 24 hours</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
+        }
+      ]
+    },
+    "contact": {
+      "settings": {
+        "title": "crypto trade",
+        "meta_descr": "We help you buy and sell your cryptocurrencies through our platform"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptocurrency-203x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRYPTO TRADE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/home/Home\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://cryptocoinsales.yn.lt/index\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Make Sales</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell to a customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">sell through</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Buy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from customer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy through us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cryptocoinsales.yn.lt/index\">buy from us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cryptocoinsales.github.io/us/About%20us\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">&nbsp;09023326153 09068084098&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">cryptotrade6466@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 cryptotrade."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-x",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "",
+          "text": "Please contact our agent: 09068084098&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to customer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Sell to us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy through us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Buy from us</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http\" data-toolbar=\"-mbrBtnMove\">&nbsp;00.00 :Amount Sold<br>&nbsp;00.00 :Amount Bought<br>&nbsp;00.00 :Current Trnsaction<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"http://cryptocoinsales.yn.lt/sell\" data-toolbar=\"-mbrBtnMove\">Log out</a>"
         }
       ]
     }
